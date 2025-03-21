@@ -1,0 +1,14 @@
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\bin\Debug\net8.0\JSONDerulo.exe
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\bin\Debug\net8.0\JSONDerulo.deps.json
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\bin\Debug\net8.0\JSONDerulo.runtimeconfig.json
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\bin\Debug\net8.0\JSONDerulo.dll
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\bin\Debug\net8.0\JSONDerulo.pdb
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.AssemblyInfoInputs.cache
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.AssemblyInfo.cs
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.csproj.CoreCompileInputs.cache
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.dll
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\refint\JSONDerulo.dll
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.pdb
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\JSONDerulo.genruntimeconfig.cache
+C:\Users\sandro\Desktop\magie\JSONDerulo\JSONDerulo\obj\Debug\net8.0\ref\JSONDerulo.dll
