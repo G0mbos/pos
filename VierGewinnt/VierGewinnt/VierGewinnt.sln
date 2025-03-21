@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VierGewinnt", "VierGewinnt\VierGewinnt.csproj", "{3AEFF976-4F33-4F66-A448-EEFB26729BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VierGewinnt.Server", "VierGewinnt.Server\VierGewinnt.Server.csproj", "{68D3C15E-B3BF-4036-B7C9-F5073A21808F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AEFF976-4F33-4F66-A448-EEFB26729BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEFF976-4F33-4F66-A448-EEFB26729BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEFF976-4F33-4F66-A448-EEFB26729BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEFF976-4F33-4F66-A448-EEFB26729BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D3C15E-B3BF-4036-B7C9-F5073A21808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D3C15E-B3BF-4036-B7C9-F5073A21808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D3C15E-B3BF-4036-B7C9-F5073A21808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D3C15E-B3BF-4036-B7C9-F5073A21808F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE5CB9D-A9B8-4689-A6A3-147FA532BC21}
+	EndGlobalSection
+EndGlobal

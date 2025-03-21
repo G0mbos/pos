@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.serv\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|solutionrelative:minesweeper.serv\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|solutionrelative:minesweeper.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|solutionrelative:minesweeper.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|solutionrelative:minesweeper.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.serv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|solutionrelative:minesweeper.serv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.serv\\minesweeper.serv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|solutionrelative:minesweeper.serv\\minesweeper.serv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.serv\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|solutionrelative:minesweeper.serv\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.serv\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9A278-24ED-46CB-AD58-BF288C8C0446}|Minesweeper.Serv\\Minesweeper.Serv.csproj|solutionrelative:minesweeper.serv\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\dig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\dig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.app\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|solutionrelative:minesweeper.app\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\createdgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\createdgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.net\\inetworklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9FB682-BDEF-42DA-8491-6E30F4D38481}|Minesweeper.Net\\Minesweeper.Net.csproj|solutionrelative:minesweeper.net\\inetworklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|solutionrelative:minesweeper.app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|c:\\users\\sandro\\desktop\\magie\\minesweeper.app\\minesweeper.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9934A-A677-4C3C-AD6B-82294643AB52}|Minesweeper.App\\Minesweeper.App.csproj|solutionrelative:minesweeper.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Game.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Serv\\Game.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Game.cs",
+              "RelativeToolTip": "Minesweeper.Serv\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:30:20.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Minesweeper.Serv",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Minesweeper.Serv.csproj",
+              "RelativeDocumentMoniker": "Minesweeper.Serv\\Minesweeper.Serv.csproj",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Minesweeper.Serv.csproj",
+              "RelativeToolTip": "Minesweeper.Serv\\Minesweeper.Serv.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T18:28:00.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Server.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Serv\\Server.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Server.cs",
+              "RelativeToolTip": "Minesweeper.Serv\\Server.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:27:47.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Minesweeper.App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\MainWindow.xaml",
+              "RelativeToolTip": "Minesweeper.App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T17:28:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Minesweeper.App\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Minesweeper.App\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAewHUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:32:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreatedGame.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\CreatedGame.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\CreatedGame.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\CreatedGame.cs",
+              "RelativeToolTip": "Minesweeper.Net\\CreatedGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:59:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Msg.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Msg.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\Msg.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Msg.cs",
+              "RelativeToolTip": "Minesweeper.Net\\Msg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:00:48.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Program.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Serv\\Program.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Program.cs",
+              "RelativeToolTip": "Minesweeper.Serv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:02:57.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dig.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Dig.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\Dig.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Dig.cs",
+              "RelativeToolTip": "Minesweeper.Net\\Dig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:54:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Response.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\Response.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Response.cs",
+              "RelativeToolTip": "Minesweeper.Net\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:55:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Minesweeper.App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Minesweeper.App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:28:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mine.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Mine.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Serv\\Mine.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Serv\\Mine.cs",
+              "RelativeToolTip": "Minesweeper.Serv\\Mine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageTypes.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\MessageTypes.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\MessageTypes.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\MessageTypes.cs",
+              "RelativeToolTip": "Minesweeper.Net\\MessageTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:51:57.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\StartGame.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\StartGame.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\StartGame.cs",
+              "RelativeToolTip": "Minesweeper.Net\\StartGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:57:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\Field.cs",
+              "RelativeDocumentMoniker": "Minesweeper.App\\Field.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\Field.cs",
+              "RelativeToolTip": "Minesweeper.App\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:05:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Transfer.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\Transfer.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\Transfer.cs",
+              "RelativeToolTip": "Minesweeper.Net\\Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:49:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "INetworkListener.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\INetworkListener.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Net\\INetworkListener.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.Net\\INetworkListener.cs",
+              "RelativeToolTip": "Minesweeper.Net\\INetworkListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:49:52.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Minesweeper.App\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\AssemblyInfo.cs",
+              "RelativeToolTip": "Minesweeper.App\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:39:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Minesweeper.App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\App.xaml.cs",
+              "RelativeToolTip": "Minesweeper.App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:38:56.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

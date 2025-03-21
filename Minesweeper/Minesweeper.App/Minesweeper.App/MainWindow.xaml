@@ -1,0 +1,90 @@
+﻿<Window x:Class="Minesweeper.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Minesweeper.App"        
+        mc:Ignorable="d"
+        
+        xmlns:viewmodels="clr-namespace:Minesweeper.App"
+        d:DataContext="{d:DesignInstance Type=viewmodels:MainWindowViewModel}"
+        
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Margin="10px">
+            <TextBlock>Minesweeper</TextBlock>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>Size:</TextBlock>
+                <TextBox Width="100px" Text="{Binding Size}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>Mines:</TextBlock>
+                <Slider Minimum="1" Maximum="16" Value="{Binding MinesCount}" Width="100px" TickFrequency="1" IsSnapToTickEnabled="True"/>
+                <TextBlock Text="{Binding MinesCount}"/>
+            </StackPanel>
+
+            <Button Command="{Binding StartGameCommand}">Start Game</Button>
+            
+        </StackPanel>
+
+        <ItemsControl Grid.Column="1" ItemsSource="{Binding Fields}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Columns="{Binding Size}" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <DataTemplate.Resources>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="Gray" />
+                            <!-- Visited -->
+                            <Setter Property="FontSize" Value="24" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Value}" Value="-1">
+                                    <!-- Unvisited -->
+                                    <Setter Property="Background" Value="LimeGreen" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="0">
+                                    <Setter Property="Background" Value="Gray" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="1">
+                                    <Setter Property="Background" Value="CornflowerBlue" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="2">
+                                    <Setter Property="Background" Value="Green" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="3">
+                                    <Setter Property="Background" Value="Red" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="4">
+                                    <Setter Property="Background" Value="DarkViolet" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="5">
+                                    <Setter Property="Background" Value="DarkOrange" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="6">
+                                    <Setter Property="Background" Value="LightBlue" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="7">
+                                    <Setter Property="Background" Value="Black" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Value}" Value="8">
+                                    <Setter Property="Background" Value="DarkGray" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataTemplate.Resources>
+                    <Button Content="{Binding Value}" Command="{Binding DataContext.ClickFieldCommand, RelativeSource={RelativeSource AncestorType=Window}}" CommandParameter="{Binding}" />
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</Window>

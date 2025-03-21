@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|d:\\bitteohnegrammatik\\roboterinterpreterpattern\\roboterinterpreterpattern\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|solutionrelative:parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|d:\\bitteohnegrammatik\\roboterinterpreterpattern\\roboterinterpreterpattern\\tokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|solutionrelative:tokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|d:\\bitteohnegrammatik\\roboterinterpreterpattern\\roboterinterpreterpattern\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|d:\\bitteohnegrammatik\\roboterinterpreterpattern\\roboterinterpreterpattern\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|solutionrelative:token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|d:\\bitteohnegrammatik\\roboterinterpreterpattern\\roboterinterpreterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0252E08-E9A8-4123-B11C-5DE585077890}|RoboterInterpreterPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Parser.cs",
+              "RelativeDocumentMoniker": "Parser.cs",
+              "ToolTip": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Parser.cs",
+              "RelativeToolTip": "Parser.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:26:20Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Token.cs",
+              "RelativeDocumentMoniker": "Token.cs",
+              "ToolTip": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Token.cs",
+              "RelativeToolTip": "Token.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:26:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tokenizer.cs",
+              "DocumentMoniker": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Tokenizer.cs",
+              "RelativeDocumentMoniker": "Tokenizer.cs",
+              "ToolTip": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Tokenizer.cs",
+              "RelativeToolTip": "Tokenizer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:26:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-20T19:26:20.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:26:20.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

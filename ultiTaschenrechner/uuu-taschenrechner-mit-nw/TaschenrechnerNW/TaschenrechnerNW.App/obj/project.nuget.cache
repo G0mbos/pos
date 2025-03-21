@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNzvuB7U/3rLDJcwZUOEpjCDtSYNbN7oCWe65QD7/+v5Te8uwvT6+b1lDGbnZ+4UJPEgruP0pY4D4YCYrqCVZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasin\\Desktop\\Dokumeeente\\HTLdocs\\JG5\\POS\\uuu-taschenrechner-mit-nw\\TaschenrechnerNW\\TaschenrechnerNW.App\\TaschenrechnerNW.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasin\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

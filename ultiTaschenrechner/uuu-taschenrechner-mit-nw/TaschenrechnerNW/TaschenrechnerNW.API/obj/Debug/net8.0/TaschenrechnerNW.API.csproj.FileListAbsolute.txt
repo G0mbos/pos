@@ -1,0 +1,11 @@
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\bin\Debug\net8.0\TaschenrechnerNW.API.deps.json
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\bin\Debug\net8.0\TaschenrechnerNW.API.dll
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\bin\Debug\net8.0\TaschenrechnerNW.API.pdb
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\TaschenrechnerNW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\TaschenrechnerNW.API.AssemblyInfoInputs.cache
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\TaschenrechnerNW.API.AssemblyInfo.cs
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\TaschenrechnerNW.API.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\TaschenrechnerNW.API.dll
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\refint\TaschenrechnerNW.API.dll
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\TaschenrechnerNW.API.pdb
+C:\Users\yasin\Desktop\Dokumeeente\HTLdocs\JG5\POS\uuu-taschenrechner-mit-nw\TaschenrechnerNW\TaschenrechnerNW.API\obj\Debug\net8.0\ref\TaschenrechnerNW.API.dll

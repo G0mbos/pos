@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\tictactoe\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F56C1D-EABE-4FFF-8DA6-B411ADA9FB28}|NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\networklibrary\\inetworklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F56C1D-EABE-4FFF-8DA6-B411ADA9FB28}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\inetworklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F56C1D-EABE-4FFF-8DA6-B411ADA9FB28}|NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\networklibrary\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F56C1D-EABE-4FFF-8DA6-B411ADA9FB28}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F56C1D-EABE-4FFF-8DA6-B411ADA9FB28}|NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\networklibrary\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F56C1D-EABE-4FFF-8DA6-B411ADA9FB28}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\tictactoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\tictactoe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|c:\\users\\matth\\documents\\schule\\htl\\5\\pos\\pos2025\\c#\\tictactoe\\tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA9AEF-1837-4B0A-8375-B0B9FF733047}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Msg.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\NetworkLibrary\\Msg.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\Msg.cs",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\NetworkLibrary\\Msg.cs",
+              "RelativeToolTip": "NetworkLibrary\\Msg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:46:48.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\NetworkLibrary\\Transfer.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\Transfer.cs",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\NetworkLibrary\\Transfer.cs",
+              "RelativeToolTip": "NetworkLibrary\\Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:46:45.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INetworkListener.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\NetworkLibrary\\INetworkListener.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\INetworkListener.cs",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\NetworkLibrary\\INetworkListener.cs",
+              "RelativeToolTip": "NetworkLibrary\\INetworkListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:46:40.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\App.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\App.xaml",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\App.xaml",
+              "RelativeToolTip": "TicTacToe\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T14:43:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\App.xaml.cs",
+              "RelativeToolTip": "TicTacToe\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:42:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\MainWindowViewModel.cs",
+              "RelativeToolTip": "TicTacToe\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:12:02.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T16:06:49.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\matth\\Documents\\Schule\\HTL\\5\\POS\\POS2025\\C#\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:06:47.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\bin\Debug\net8.0\VierGewinnt.Server.exe
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\bin\Debug\net8.0\VierGewinnt.Server.deps.json
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\bin\Debug\net8.0\VierGewinnt.Server.runtimeconfig.json
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\bin\Debug\net8.0\VierGewinnt.Server.dll
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\bin\Debug\net8.0\VierGewinnt.Server.pdb
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.AssemblyInfoInputs.cache
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.AssemblyInfo.cs
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.csproj.CoreCompileInputs.cache
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.dll
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\refint\VierGewinnt.Server.dll
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.pdb
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\VierGewinnt.Server.genruntimeconfig.cache
+C:\Users\fh5\Documents\important\POS-Maturavorbereitung\PA3UE\VierGewinnt\VierGewinnt.Server\obj\Debug\net8.0\ref\VierGewinnt.Server.dll

@@ -1,0 +1,14 @@
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\bin\Debug\net7.0\RoboterInterpreterPattern.exe
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\bin\Debug\net7.0\RoboterInterpreterPattern.deps.json
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\bin\Debug\net7.0\RoboterInterpreterPattern.runtimeconfig.json
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\bin\Debug\net7.0\RoboterInterpreterPattern.dll
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\bin\Debug\net7.0\RoboterInterpreterPattern.pdb
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.dll
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\refint\RoboterInterpreterPattern.dll
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.pdb
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\RoboterInterpreterPattern.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\Schule\5. Klasse\POS_C#\RoboterInterpreterPattern\obj\Debug\net7.0\ref\RoboterInterpreterPattern.dll

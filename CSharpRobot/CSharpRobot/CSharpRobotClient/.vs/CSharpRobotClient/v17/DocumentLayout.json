@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1990B-37E4-4F61-AEB5-BA4B8D6790C5}|CSharpRobotClient\\CSharpRobotClient.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotclient\\csharprobotclient\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D1990B-37E4-4F61-AEB5-BA4B8D6790C5}|CSharpRobotClient\\CSharpRobotClient.csproj|solutionrelative:csharprobotclient\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942B04D5-F3BC-7F7A-CDD2-F3ED8764B9FA}|..\\CSharpRobotServer\\NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\networklibrary\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1990B-37E4-4F61-AEB5-BA4B8D6790C5}|CSharpRobotClient\\CSharpRobotClient.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotclient\\csharprobotclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67D1990B-37E4-4F61-AEB5-BA4B8D6790C5}|CSharpRobotClient\\CSharpRobotClient.csproj|solutionrelative:csharprobotclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1990B-37E4-4F61-AEB5-BA4B8D6790C5}|CSharpRobotClient\\CSharpRobotClient.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotclient\\csharprobotclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D1990B-37E4-4F61-AEB5-BA4B8D6790C5}|CSharpRobotClient\\CSharpRobotClient.csproj|solutionrelative:csharprobotclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSG.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\MSG.cs",
+              "RelativeDocumentMoniker": "..\\CSharpRobotServer\\NetworkLibrary\\MSG.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\MSG.cs",
+              "RelativeToolTip": "..\\CSharpRobotServer\\NetworkLibrary\\MSG.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:36:34.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\CSharpRobotClient\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "CSharpRobotClient\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\CSharpRobotClient\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "CSharpRobotClient\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:10:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\CSharpRobotClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CSharpRobotClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\CSharpRobotClient\\MainWindow.xaml",
+              "RelativeToolTip": "CSharpRobotClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T08:56:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\CSharpRobotClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CSharpRobotClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotClient\\CSharpRobotClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CSharpRobotClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:56:31.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

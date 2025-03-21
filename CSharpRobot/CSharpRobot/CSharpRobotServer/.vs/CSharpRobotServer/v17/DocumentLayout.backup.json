@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\parser\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\parser\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A5BE4-B06E-43C6-83FD-2FFDF1159033}|NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\networklibrary\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A5BE4-B06E-43C6-83FD-2FFDF1159033}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A5BE4-B06E-43C6-83FD-2FFDF1159033}|NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\networklibrary\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A5BE4-B06E-43C6-83FD-2FFDF1159033}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A5BE4-B06E-43C6-83FD-2FFDF1159033}|NetworkLibrary\\NetworkLibrary.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\networklibrary\\networklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A5BE4-B06E-43C6-83FD-2FFDF1159033}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\networklistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\parser\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\parser\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\parser\\if.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\parser\\if.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\tokenizer\\tokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\tokenizer\\tokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\parser\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\parser\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\model\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\model\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\tokenizer\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\tokenizer\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|c:\\users\\marco\\documents\\pos\\csharprobot\\csharprobotserver\\csharprobotserver\\grammatik\\parser\\until.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D2DAC8-FBC4-47A3-8A6E-57124503873C}|CSharpRobotServer\\CSharpRobotServer.csproj|solutionrelative:csharprobotserver\\grammatik\\parser\\until.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\App.xaml.cs",
+              "RelativeToolTip": "CSharpRobotServer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:56:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSG.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\MSG.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\MSG.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\MSG.cs",
+              "RelativeToolTip": "NetworkLibrary\\MSG.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:43:46.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetworkListener.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\NetworkListener.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\NetworkListener.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\NetworkListener.cs",
+              "RelativeToolTip": "NetworkLibrary\\NetworkListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:43:30.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\Transfer.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\Transfer.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\NetworkLibrary\\Transfer.cs",
+              "RelativeToolTip": "NetworkLibrary\\Transfer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:42:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Block.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Parser\\Block.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Block.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Parser\\Block.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:22:37.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tokenizer.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Tokenizer\\Tokenizer.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Tokenizer\\Tokenizer.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Tokenizer\\Tokenizer.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Tokenizer\\Tokenizer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:21:51.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "If.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\If.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Parser\\If.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\If.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Parser\\If.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:16:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Until.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Until.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Parser\\Until.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Until.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Parser\\Until.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:16:19.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Tokenizer\\Token.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Tokenizer\\Token.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Tokenizer\\Token.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Tokenizer\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:15:22.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Parser.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Parser\\Parser.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Parser.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Parser\\Parser.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:15:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Move.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Parser\\Move.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Move.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Parser\\Move.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:27:39.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Direction.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Grammatik\\Parser\\Direction.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Grammatik\\Parser\\Direction.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Grammatik\\Parser\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:27:37.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "CSharpRobotServer\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAmwMIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:59:33.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Model\\Space.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\Model\\Space.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\Model\\Space.cs",
+              "RelativeToolTip": "CSharpRobotServer\\Model\\Space.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:52:08.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\MainWindow.xaml",
+              "RelativeToolTip": "CSharpRobotServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T16:51:33.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CSharpRobotServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\POS\\CSharpRobot\\CSharpRobotServer\\CSharpRobotServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CSharpRobotServer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:51:31.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

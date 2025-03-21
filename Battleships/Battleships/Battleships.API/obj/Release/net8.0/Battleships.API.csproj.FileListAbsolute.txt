@@ -1,0 +1,11 @@
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\bin\Release\net8.0\Battleships.API.deps.json
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\bin\Release\net8.0\Battleships.API.dll
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\bin\Release\net8.0\Battleships.API.pdb
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\Battleships.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\Battleships.API.AssemblyInfoInputs.cache
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\Battleships.API.AssemblyInfo.cs
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\Battleships.API.csproj.CoreCompileInputs.cache
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\Battleships.API.dll
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\refint\Battleships.API.dll
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\Battleships.API.pdb
+C:\Users\Sven\Schule\POS\c#\Battleships\Battleships.API\obj\Release\net8.0\ref\Battleships.API.dll

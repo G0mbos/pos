@@ -1,0 +1,11 @@
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\bin\Debug\net8.0\Minesweeper.Net.deps.json
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\bin\Debug\net8.0\Minesweeper.Net.dll
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\bin\Debug\net8.0\Minesweeper.Net.pdb
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\Minesweeper.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\Minesweeper.Net.AssemblyInfoInputs.cache
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\Minesweeper.Net.AssemblyInfo.cs
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\Minesweeper.Net.csproj.CoreCompileInputs.cache
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\Minesweeper.Net.dll
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\refint\Minesweeper.Net.dll
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\Minesweeper.Net.pdb
+C:\Users\sandro\Desktop\magie\Minesweeper.App\Minesweeper.Net\obj\Debug\net8.0\ref\Minesweeper.Net.dll

@@ -1,0 +1,26 @@
+﻿<Window x:Class="TaschenrechnerNW.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaschenrechnerNW.App"
+        xmlns:viewmodel="clr-namespace:TaschenrechnerNW.App.ViewModels"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance Type=viewmodel:MainWindowViewModel, IsDesignTimeCreatable=True}"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Taschenrechner" FontSize="20" TextAlignment="Center" Margin="10"/>
+            <TextBox x:Name="txtDisplay" Text="{Binding Input}" FontSize="20" Margin="10" />
+            <Button Content="Rechnen!" Command="{Binding CalculateCommand}" Margin="10"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Output: " FontSize="20" Margin="10"/>
+                <TextBlock Text="{Binding Output}" FontSize="20" Margin="10"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

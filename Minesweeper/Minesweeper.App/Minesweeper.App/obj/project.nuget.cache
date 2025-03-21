@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rRJCfdPspI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sandro\\Desktop\\magie\\Minesweeper.App\\Minesweeper.App\\Minesweeper.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandro\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
